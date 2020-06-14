@@ -11,6 +11,3 @@ After a Windows update reset the default applications for all of our client's co
 ### [Automated PC Setup](https://github.com/AkiliKhasi/BenchScript)
 
 When we received new PCs for any client we would have to remove any software from the manufacturer and set some default settings within Windows. We would then have to install the latest versions of Adobe and Jave before shipping the PC to the client. I wanted to automate this proccess so I wrote this script that removes any bloatware from HP or Dell and any trial editions of Microsoft Office. The script also changes some settings within Windows for the Windows Firewall, Power Settings, and UAC then installs the latest version of Adobe Reader and Java.
-
-
-![Image](https://github.com/AkiliKhasi/AkiliKhasi.github.io/blob/master/khlogo2-removebg-preview%20(1).png?raw=true)
