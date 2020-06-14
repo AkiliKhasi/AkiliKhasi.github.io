@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Past Projects
 
-You can use the [editor on GitHub](https://github.com/AkiliKhasi/AkiliKhasi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [Link](https://github.com/AkiliKhasi/CompareList) Report Failed Backups
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Our backup software would send daily reports as a PDF for every customer and their corresponding DR site. In order for a manager to see if a report had not been run for a specific customer they would have to sort through a list of over 150 PDF files to see if it was missing. In order to make this process more efficient I wrote this script to compare all of the PDF files generated that day against a control list and then list any missing reports in a text file.   
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
